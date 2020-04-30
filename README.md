@@ -1,8 +1,7 @@
 # 56k
 NMNT 56k - Simple bot code
 
-Hardware:
-
+Hardware:\
 1x ESP8266 NodeMCU V2\
 2x 15 pin Socket\
 2x SG92R Digital servo\
@@ -11,7 +10,7 @@ Hardware:
 1x Protoboard 4x6 cm\
 1x 4x battery pack
 
-Revived from Modem:
+Revived from Modem:\
 1x HYCOM HY-07\
 3x LEDs\
 1x Tornado modem enclosure\
